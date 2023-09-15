@@ -3,4 +3,5 @@
 
 <ul>
   <li>F.D Calculator</li>
+  <li>Friend Request</li>
 </ul>
