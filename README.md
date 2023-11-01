@@ -4,4 +4,5 @@
 <ul>
   <li>F.D Calculator</li>
   <li>Friend Request</li>
+  <li>Weather Forecasting (partially completed)</li>
 </ul>
