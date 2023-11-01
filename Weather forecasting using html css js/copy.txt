@@ -1,0 +1,67 @@
+<li class="nav-item">
+              <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+            </li>
+
+
+
+<th style="width: 22%;">Cloud_pct</th>
+<th style="width: 22%;">Temp</th>
+<th style="width: 22%;">Feels_like</th>
+<th style="width: 22%;">Humidity</th>
+<th style="width: 22%;">Min_temp</th>
+<th style="width: 22%;">Max_temp</th>
+<th style="width: 22%;">Wind_speed</th>
+<th style="width: 22%;">Wind_degrees</th>
+<th style="width: 22%;">Sunrise</th>
+
+Cloud_pct=response.Cloud_pct
+Temp=response.Temp
+Feels_like=response.Feels_like
+Humidity=response.Humidity
+Min_temp=response.Min_temp
+Max_temp=response.Max_temp
+Wind_speed=response.Wind_speed
+Wind_degrees=response.Wind_degrees
+Sunrise=response.Sunrise
+
+
+
+
+
+ <footer class="pt-4 my-md-5 pt-md-5 border-top">
+          <div class="row">
+            <div class="col-12 col-md">
+              <img class="mb-2" src="/docs/5.3/assets/brand/bootstrap-logo.svg" alt="" width="24" height="19">
+              <small class="d-block mb-3 text-body-secondary">© 2017–2023</small>
+            </div>
+            <div class="col-6 col-md">
+              <h5>Features</h5>
+              <ul class="list-unstyled text-small">
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Cool stuff</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Random feature</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Team feature</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Stuff for developers</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Another one</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Last time</a></li>
+              </ul>
+            </div>
+            <div class="col-6 col-md">
+              <h5>Resources</h5>
+              <ul class="list-unstyled text-small">
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Resource</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Resource name</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Another resource</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Final resource</a></li>
+              </ul>
+            </div>
+            <div class="col-6 col-md">
+              <h5>About</h5>
+              <ul class="list-unstyled text-small">
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Team</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Locations</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Privacy</a></li>
+                <li class="mb-1"><a class="link-secondary text-decoration-none" href="#">Terms</a></li>
+              </ul>
+            </div>
+          </div>
+        </footer>
